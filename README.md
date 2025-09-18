@@ -12,12 +12,7 @@ A beautiful, modern, and feature-rich calculator built with Python and Tkinter.
 - **Theme toggle:** Switch between light and dark pink themes
 - **Resizable window:** Layout adapts smoothly as you resize
 - **Error handling:** Friendly messages for invalid input, division by zero, and math errors
-
-## Screenshots
-
-![Light Theme Screenshot](screenshot-light.png)
-![Dark Theme Screenshot](screenshot-dark.png)
-
+  
 ## Usage
 
 1. **Install Python 3.7+** (with Tkinter, included by default)
